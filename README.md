@@ -1,6 +1,6 @@
-## R. Danny
+## Bot Python Open Source
 
-A personal bot that runs on Discord.
+A bot that runs on Discord.
 
 ## Running
 
